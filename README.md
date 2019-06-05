@@ -1,5 +1,6 @@
 # SURVEY-FORM
 Survey Form for District Yoga. The form was created as part of the freecodecamp responsive web design course.
+The survey form is a static form.
 
 ## REQUIREMENTS
 The Survey Form [requirements](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
